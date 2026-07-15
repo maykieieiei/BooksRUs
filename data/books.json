@@ -231,7 +231,7 @@
     "stock": 32,
     "image": "images/books/book18.jpg",
     "featured": false,
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "BRU-019",
@@ -244,7 +244,7 @@
     "stock": 40,
     "image": "images/books/book19.jpg",
     "featured": true,
-    "bestSeller": true
+    "bestSeller": false
   },
   {
     "id": "BRU-020",
@@ -270,19 +270,123 @@
     "stock": 35,
     "image": "images/books/book21.jpg",
     "featured": false,
-    "bestSeller": false
+    "bestSeller": true
   },
   {
   "id": "BRU-022",
   "title": "Harry Potter and the Sorcerer's Stone",
   "author": "J. K. Rowling",
   "shortDescription": "Harry Potter discovers he is a wizard and begins his first year at Hogwarts School of Witchcraft and Wizardry. Alongside new friends, he uncovers magical secrets and faces an unforgettable adventure.",
-  "category": "Fantasy",
+  "category": "Adventure",
   "ageGroup": "9–12",
   "price": 499,
   "stock": 25,
   "image": "images/books/book22.jpg",
   "featured": true,
   "bestSeller": true
+},
+  {
+  "id": "BRU-023",
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "shortDescription": "Join Winnie-the-Pooh and his friends from the Hundred Acre Wood on heartwarming adventures filled with friendship, kindness, and imagination.",
+  "category": "Adventure",
+  "ageGroup": "3–5",
+  "price": 399,
+  "stock": 28,
+  "image": "images/books/book23.jpg",
+  "featured": false,
+  "bestSeller": true
+},
+{
+  "id": "BRU-024",
+  "title": "Curious George",
+  "author": "H. A. Rey",
+  "shortDescription": "Curious George's playful adventures often lead to unexpected surprises. This classic story encourages curiosity, creativity, and learning through fun.",
+  "category": "Picture Books",
+  "ageGroup": "3–5",
+  "price": 299,
+  "stock": 34,
+  "image": "images/books/book24.jpg",
+  "featured": false,
+  "bestSeller": true
+},
+{
+  "id": "BRU-025",
+  "title": "The Tale of Peter Rabbit",
+  "author": "Beatrix Potter",
+  "shortDescription": "Peter Rabbit sneaks into Mr. McGregor's garden despite his mother's warning. A timeless tale about curiosity, courage, and learning from mistakes.",
+  "category": "Picture Books",
+  "ageGroup": "3–5",
+  "price": 299,
+  "stock": 30,
+  "image": "images/books/book25.jpg",
+  "featured": false,
+  "bestSeller": false
+},
+{
+  "id": "BRU-026",
+  "title": "Green Eggs and Ham",
+  "author": "Dr. Seuss",
+  "shortDescription": "Sam-I-Am encourages his friend to try a new meal in this playful rhyming classic. A delightful story about keeping an open mind and trying new things.",
+  "category": "Early Readers",
+  "ageGroup": "3–5",
+  "price": 349,
+  "stock": 32,
+  "image": "images/books/book26.jpg",
+  "featured": true,
+  "bestSeller": false
+},
+{
+  "id": "BRU-027",
+  "title": "The Rainbow Fish",
+  "author": "Marcus Pfister",
+  "shortDescription": "The most beautiful fish in the ocean learns that true happiness comes from sharing with others. A beloved picture book about kindness and friendship.",
+  "category": "Picture Books",
+  "ageGroup": "3–5",
+  "price": 349,
+  "stock": 29,
+  "image": "images/books/book27.jpg",
+  "featured": true,
+  "bestSeller": false
+},
+{
+  "id": "BRU-028",
+  "title": "Charlotte's Web",
+  "author": "E. B. White",
+  "shortDescription": "Wilbur the pig and Charlotte the spider form an unforgettable friendship. This timeless classic celebrates kindness, loyalty, and the power of true friendship.",
+  "category": "Adventure",
+  "ageGroup": "9–12",
+  "price": 449,
+  "stock": 24,
+  "image": "images/books/book28.jpg",
+  "featured": true,
+  "bestSeller": true
+},
+{
+  "id": "BRU-029",
+  "title": "Alamat ng Pinya",
+  "author": "Traditional Filipino Folktale",
+  "shortDescription": "A classic Filipino folktale about Pinang, a young girl who learns the importance of obedience and responsibility. A timeless story that teaches valuable life lessons.",
+  "category": "Filipino Books",
+  "ageGroup": "6–8",
+  "price": 199,
+  "stock": 35,
+  "image": "images/books/book29.jpg",
+  "featured": false,
+  "bestSeller": false
+},
+{
+  "id": "BRU-030",
+  "title": "Ibong Adarna",
+  "author": "Traditional Filipino Epic",
+  "shortDescription": "Prince Don Juan embarks on a magical journey to capture the legendary Ibong Adarna. This Filipino literary classic is filled with adventure, courage, and family devotion.",
+  "category": "Filipino Books",
+  "ageGroup": "9–12",
+  "price": 299,
+  "stock": 22,
+  "image": "images/books/book30.jpg",
+  "featured": true,
+  "bestSeller": false
 }
 ]

@@ -23,7 +23,7 @@
     "stock": 38,
     "image": "images/books/book02.jpg",
     "featured": false,
-    "bestSeller": true
+    "bestSeller": false
   },
   {
     "id": "BRU-003",
@@ -48,7 +48,7 @@
     "price": 299,
     "stock": 31,
     "image": "images/books/book04.jpg",
-    "featured": true,
+    "featured": false,
     "bestSeller": false
   },
   {
@@ -87,7 +87,7 @@
     "price": 379,
     "stock": 21,
     "image": "images/books/book07.jpg",
-    "featured": false,
+    "featured": true,
     "bestSeller": false
   },
   {
@@ -100,8 +100,8 @@
     "price": 299,
     "stock": 34,
     "image": "images/books/book08.jpg",
-    "featured": false,
-    "bestSeller": false
+    "featured": true,
+    "bestSeller": true
   },
   {
     "id": "BRU-009",
@@ -114,7 +114,7 @@
     "stock": 26,
     "image": "images/books/book09.jpg",
     "featured": false,
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "BRU-010",
@@ -126,7 +126,7 @@
     "price": 199,
     "stock": 45,
     "image": "images/books/book10.jpg",
-    "featured": false,
+    "featured": true,
     "bestSeller": true
   },
   {
@@ -152,7 +152,7 @@
     "price": 299,
     "stock": 33,
     "image": "images/books/book12.jpg",
-    "featured": true,
+    "featured": false,
     "bestSeller": false
   },
   {
@@ -230,7 +230,7 @@
     "price": 199,
     "stock": 32,
     "image": "images/books/book18.jpg",
-    "featured": false,
+    "featured": true,
     "bestSeller": true
   },
   {
@@ -243,7 +243,7 @@
     "price": 199,
     "stock": 40,
     "image": "images/books/book19.jpg",
-    "featured": true,
+    "featured": false,
     "bestSeller": false
   },
   {
@@ -269,7 +269,7 @@
     "price": 199,
     "stock": 35,
     "image": "images/books/book21.jpg",
-    "featured": false,
+    "featured": true,
     "bestSeller": true
   },
   {
@@ -292,10 +292,10 @@
   "shortDescription": "Join Winnie-the-Pooh and his friends from the Hundred Acre Wood on heartwarming adventures filled with friendship, kindness, and imagination.",
   "category": "Adventure",
   "ageGroup": "3–5",
-  "price": 399,
+  "price": 289,
   "stock": 28,
   "image": "images/books/book23.jpg",
-  "featured": false,
+  "featured": true,
   "bestSeller": true
 },
 {
@@ -305,7 +305,7 @@
   "shortDescription": "Curious George's playful adventures often lead to unexpected surprises. This classic story encourages curiosity, creativity, and learning through fun.",
   "category": "Picture Books",
   "ageGroup": "3–5",
-  "price": 299,
+  "price": 279,
   "stock": 34,
   "image": "images/books/book24.jpg",
   "featured": false,
@@ -331,10 +331,10 @@
   "shortDescription": "Sam-I-Am encourages his friend to try a new meal in this playful rhyming classic. A delightful story about keeping an open mind and trying new things.",
   "category": "Early Readers",
   "ageGroup": "3–5",
-  "price": 349,
+  "price": 179,
   "stock": 32,
   "image": "images/books/book26.jpg",
-  "featured": true,
+  "featured": false,
   "bestSeller": false
 },
 {
@@ -344,7 +344,7 @@
   "shortDescription": "The most beautiful fish in the ocean learns that true happiness comes from sharing with others. A beloved picture book about kindness and friendship.",
   "category": "Picture Books",
   "ageGroup": "3–5",
-  "price": 349,
+  "price": 279,
   "stock": 29,
   "image": "images/books/book27.jpg",
   "featured": true,
@@ -357,7 +357,7 @@
   "shortDescription": "Wilbur the pig and Charlotte the spider form an unforgettable friendship. This timeless classic celebrates kindness, loyalty, and the power of true friendship.",
   "category": "Adventure",
   "ageGroup": "9–12",
-  "price": 449,
+  "price": 289,
   "stock": 24,
   "image": "images/books/book28.jpg",
   "featured": true,
@@ -373,7 +373,7 @@
   "price": 199,
   "stock": 35,
   "image": "images/books/book29.jpg",
-  "featured": false,
+  "featured": true,
   "bestSeller": false
 },
 {
@@ -386,7 +386,33 @@
   "price": 299,
   "stock": 22,
   "image": "images/books/book30.jpg",
+  "featured": false,
+  "bestSeller": false
+},
+{
+  "id": "BRU-031",
+  "title": "Guess How Much I Love You",
+  "author": "Sam McBratney",
+  "shortDescription": "Little Nutbrown Hare and Big Nutbrown Hare share a sweet conversation about love and affection. This gentle story celebrates the special bond between parents and children.",
+  "category": "Bedtime Stories",
+  "ageGroup": "0–2",
+  "price": 199,
+  "stock": 36,
+  "image": "images/books/book31.jpg",
   "featured": true,
+  "bestSeller": false
+},
+{
+  "id": "BRU-032",
+  "title": "Chicka Chicka Boom Boom",
+  "author": "Bill Martin Jr. and John Archambault",
+  "shortDescription": "Watch the alphabet letters race up the coconut tree in this fun and rhythmic story. Its catchy words help young children learn letters while enjoying a playful adventure.",
+  "category": "Picture Books",
+  "ageGroup": "0–2",
+  "price": 149,
+  "stock": 40,
+  "image": "images/books/book32.jpg",
+  "featured": false,
   "bestSeller": false
 }
 ]

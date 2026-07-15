@@ -272,4 +272,17 @@
     "featured": false,
     "bestSeller": false
   }
+  {
+  "id": "BRU-022",
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J. K. Rowling",
+  "shortDescription": "Harry Potter discovers he is a wizard and begins his first year at Hogwarts School of Witchcraft and Wizardry. Alongside new friends, he uncovers magical secrets and faces an unforgettable adventure.",
+  "category": "Fantasy",
+  "ageGroup": "9–12",
+  "price": 499,
+  "stock": 25,
+  "image": "images/books/book22.jpg",
+  "featured": true,
+  "bestSeller": true
+}
 ]

@@ -451,7 +451,7 @@
   "price": 299,
   "stock": 24,
   "image": "images/books/book35.jpg",
-  "featured": false,
+  "featured": true,
   "bestSeller": true
 },
 {

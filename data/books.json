@@ -674,5 +674,32 @@
   "image": "images/books/book52.jpg",
   "featured": false,
   "bestSeller": true
-}
+},
+{
+  "id": "BRU-066",
+  "title": "Alamat ng Paru Paro",
+  "author": "Creative Space",
+  "shortDescription": "This book tells the story of how the butterfly came to be.",
+  "category": "Filipino Books",
+  "ageGroup": "9-12",
+  "price": 99,
+  "stock": 36,
+  "image": " ",
+  "featured": false,
+  "bestSeller": false
+  },
+{
+  "id": "BRU-067",
+  "title": "Adventure Book for Kids",
+  "author": "Speedy Publishing",
+  "shortDescription": "This book is about fun adventures that encourage imagination and learning.",
+  "ageGroup": " 9-12",
+  "price": 199,
+  "stock": 53,
+  "image": " ",
+  "featured": false,
+   "bestSeller": false
+  },
+
+
 ]

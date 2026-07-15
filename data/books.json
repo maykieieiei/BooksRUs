@@ -661,5 +661,18 @@
   "image": "images/books/book51.jpg",
   "featured": true,
   "bestSeller": false
+},
+{
+  "id": "BRU-052",
+  "title": "Where Is the Green Sheep?",
+  "author": "Mem Fox",
+  "shortDescription": "Meet all kinds of sheep as children search for the elusive green sheep. This playful rhyming story is a beloved favorite for reading aloud.",
+  "category": "Picture Books",
+  "ageGroup": "0–2",
+  "price": 199,
+  "stock": 30,
+  "image": "images/books/book52.jpg",
+  "featured": false,
+  "bestSeller": true
 }
 ]
